@@ -1,0 +1,16 @@
+/* style.css */
+.root {
+    -fx-font-family: "Arial, sans-serif";
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #007acc;
+    -fx-text-fill: white;
+    -fx-padding: 8px 15px;
+    -fx-background-radius: 8px;
+}
